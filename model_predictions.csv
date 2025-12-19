@@ -1,0 +1,154 @@
+document_id,entity,gold_answer,Logistic Regression_prediction,Naive Bayes_prediction,Linear SVC_prediction,DeepSeek_prediction
+ru-10,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-10,Альбиона,LOC,LOC,LOC,LOC,LOC
+ru-10,Альбионе,LOC,LOC,LOC,LOC,LOC
+ru-10,Борис Джонсон,PER,PER,PER,PER,PER
+ru-10,Британии,LOC,LOC,LOC,LOC,LOC
+ru-10,Британия,LOC,LOC,LOC,LOC,LOC
+ru-10,Брюсселе,LOC,LOC,LOC,LOC,LOC
+ru-10,Брюсселем,LOC,LOC,LOC,LOC,LOC
+ru-10,Брюссель,LOC,LOC,LOC,LOC,LOC
+ru-10,Брюсселю,LOC,LOC,LOC,LOC,LOC
+ru-10,Брюсселя,LOC,LOC,LOC,LOC,LOC
+ru-10,Джонсон,PER,PER,PER,PER,PER
+ru-10,Джонсона,PER,PER,PER,PER,PER
+ru-10,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-10,Еврокомиссия,ORG,ORG,ORG,ORG,ORG
+ru-10,Европа,LOC,LOC,ORG,LOC,LOC
+ru-10,Европе,LOC,LOC,ORG,LOC,LOC
+ru-10,Европейскому,ORG,ORG,ORG,ORG,LOC
+ru-10,Европой,LOC,LOC,ORG,LOC,LOC
+ru-10,Европы,LOC,LOC,ORG,LOC,LOC
+ru-10,Евросоюза,ORG,ORG,ORG,ORG,ORG
+ru-10,Евросоюзом,ORG,ORG,ORG,ORG,ORG
+ru-10,Консервативной партии,ORG,ORG,ORG,ORG,ORG
+ru-10,Ла-Манша,LOC,LOC,LOC,LOC,LOC
+ru-10,Лондон,LOC,LOC,LOC,LOC,LOC
+ru-10,Лондона,LOC,LOC,LOC,LOC,LOC
+ru-10,Лондоне,LOC,LOC,LOC,LOC,LOC
+ru-10,Лондону,LOC,LOC,LOC,LOC,LOC
+ru-10,Международного валютного фонда,ORG,ORG,ORG,ORG,ORG
+ru-10,Мишелю Барнье,PER,PER,ORG,PER,PER
+ru-10,Мэй,PER,PER,PER,PER,PER
+ru-10,Себастьян Курц,PER,PER,LOC,PER,PER
+ru-10,Северную Ирландию,LOC,LOC,LOC,LOC,LOC
+ru-10,Соединенного Королевства,LOC,LOC,ORG,LOC,LOC
+ru-10,Тереза Мэй,PER,PER,PER,PER,PER
+ru-10,Терезу,PER,PER,PER,PER,PER
+ru-10,брекзит,EVT,EVT,EVT,EVT,EVT
+ru-10,брекзита,EVT,EVT,EVT,EVT,EVT
+ru-10,брекзиту,EVT,EVT,EVT,EVT,EVT
+ru-10,брексит,EVT,EVT,EVT,EVT,EVT
+ru-10,британском парламенте,ORG,ORG,LOC,ORG,LOC
+ru-10,британскому парламентам,ORG,ORG,LOC,ORG,LOC
+ru-10,лейбористы,ORG,ORG,ORG,ORG,ORG
+ru-10,тори,ORG,ORG,ORG,ORG,ORG
+ru-1000,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-1000,The Guardian,PRO,PRO,PER,PRO,ORG
+ru-1000,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1000,Бориса Джонсона,PER,PER,PER,PER,PER
+ru-1000,Бориса,PER,PER,PER,PER,PER
+ru-1000,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1000,Джонсон,PER,PER,PER,PER,PER
+ru-1000,Дэвид Дэвис,PER,PER,PER,PER,PER
+ru-1000,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-1000,МИД Соединенного Королевства,ORG,ORG,ORG,ORG,ORG
+ru-1000,Подробности.ua,PRO,PRO,ORG,ORG,ORG
+ru-1000,Стив Бейкер,PER,PER,PER,PER,PER
+ru-1000,Тереза Мэй,PER,PER,PER,PER,PER
+ru-1000,УНН,ORG,ORG,ORG,ORG,ORG
+ru-1001,Associated Press,ORG,PRO,EVT,PRO,ORG
+ru-1001,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-1001,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1001,Бориса,PER,PER,PER,PER,PER
+ru-1001,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1001,Джонсон,PER,PER,PER,PER,PER
+ru-1001,Джонсона,PER,PER,PER,PER,PER
+ru-1001,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-1001,Евросоюза,ORG,ORG,ORG,ORG,ORG
+ru-1001,Евросоюза,ORG,ORG,ORG,ORG,ORG
+ru-1001,МИД Британии,ORG,ORG,ORG,ORG,ORG
+ru-1001,Мэй,PER,PER,PER,PER,PER
+ru-1001,Соединенного Королевства,LOC,LOC,ORG,LOC,LOC
+ru-1001,Тереза Мэй,PER,PER,PER,PER,PER
+ru-1002,Бориса Джонсона,PER,PER,PER,PER,PER
+ru-1002,Брекзит,EVT,EVT,EVT,EVT,EVT
+ru-1002,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1002,Дэвид Дэвис,PER,PER,PER,PER,PER
+ru-1002,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-1002,Евросоюза,ORG,ORG,ORG,ORG,ORG
+ru-1002,Тереза Мей,PER,PER,PER,PER,PER
+ru-1003,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1003,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1003,Даунинг-Стрит,LOC,LOC,LOC,LOC,LOC
+ru-1003,Джонсона,PER,PER,PER,PER,PER
+ru-1003,Дэвид Дэвис,PER,PER,PER,PER,PER
+ru-1003,Евросоюза,ORG,ORG,ORG,ORG,ORG
+ru-1003,Мэй,PER,PER,PER,PER,PER
+ru-1003,Рейтер,ORG,ORG,PER,ORG,ORG
+ru-1003,Тереза Мэй,PER,PER,PER,PER,PER
+ru-1003,брекзита,EVT,EVT,EVT,EVT,EVT
+ru-1004,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-1004,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1004,Германии,LOC,LOC,LOC,LOC,LOC
+ru-1004,Джонсон,PER,PER,PER,PER,PER
+ru-1004,Джонсона,PER,PER,PER,PER,PER
+ru-1004,Дэвид Дэвис,PER,PER,PER,PER,PER
+ru-1004,Дэвис,PER,PER,PER,PER,PER
+ru-1004,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-1004,Евросоюзом,ORG,ORG,ORG,ORG,ORG
+ru-1004,Западных Балкан,LOC,LOC,ORG,LOC,LOC
+ru-1004,Консервативной партии,ORG,ORG,ORG,ORG,ORG
+ru-1004,Лондоне,LOC,LOC,LOC,LOC,LOC
+ru-1004,МИД Великобритании,ORG,ORG,LOC,ORG,ORG
+ru-1004,МИД,ORG,ORG,ORG,ORG,ORG
+ru-1004,Мэй,PER,PER,PER,PER,PER
+ru-1004,Польши,LOC,ORG,ORG,ORG,LOC
+ru-1004,ТАСС,ORG,ORG,ORG,ORG,ORG
+ru-1004,Терезы Мэй,PER,PER,PER,PER,PER
+ru-1006,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-1006,Facebook,PRO,PRO,PER,PRO,PRO
+ru-1006,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1006,Бориса Джонсона,PER,PER,PER,PER,PER
+ru-1006,Британии,LOC,LOC,LOC,LOC,LOC
+ru-1006,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1006,Джонсона,PER,PER,PER,PER,PER
+ru-1006,Захарова,PER,PER,PER,PER,PER
+ru-1006,Захаровой,PER,PER,PER,PER,PER
+ru-1006,МИД России,ORG,ORG,ORG,ORG,ORG
+ru-1006,Мария Захарова,PER,PER,PER,PER,PER
+ru-1006,Мэй,PER,PER,PER,PER,PER
+ru-1006,Т. Мэй,PER,PER,PER,PER,PER
+ru-1011,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-1011,The Guardian,PRO,PRO,PER,PRO,ORG
+ru-1011,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1011,Бориса Джонсона,PER,PER,PER,PER,PER
+ru-1011,Борисом Джонсоном,PER,PER,PER,PER,PER
+ru-1011,Великобританией,LOC,LOC,LOC,LOC,LOC
+ru-1011,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1011,Джонсона,PER,PER,PER,PER,PER
+ru-1011,Джонсоном,PER,PER,PER,PER,PER
+ru-1011,Дэвид Дэвис,PER,PER,PER,PER,PER
+ru-1011,Дэвисом,PER,PER,PER,PER,PER
+ru-1011,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-1011,Евросоюза,ORG,ORG,ORG,ORG,ORG
+ru-1011,Мэй,PER,PER,PER,PER,PER
+ru-1011,Палате общин,ORG,ORG,ORG,ORG,ORG
+ru-1011,Тереза Мэй,PER,PER,PER,PER,PER
+ru-1011,Терезу Мэй,PER,PER,PER,PER,PER
+ru-1011,Терезы Мэй,PER,PER,PER,PER,PER
+ru-1017,Brexit,EVT,EVT,EVT,EVT,EVT
+ru-1017,The Guardian,PRO,PRO,PER,PRO,ORG
+ru-1017,Борис Джонсон,PER,PER,PER,PER,PER
+ru-1017,Бориса Джонсона,PER,PER,PER,PER,PER
+ru-1017,Бориса Джонсона,PER,PER,PER,PER,PER
+ru-1017,Бориса,PER,PER,PER,PER,PER
+ru-1017,Великобритании,LOC,LOC,LOC,LOC,LOC
+ru-1017,Джонсон,PER,PER,PER,PER,PER
+ru-1017,Дэвид Дэвис,PER,PER,PER,PER,PER
+ru-1017,ЕС,ORG,ORG,ORG,ORG,ORG
+ru-1017,КИЕВ,LOC,PRO,ORG,PRO,LOC
+ru-1017,МИД Соединенного Королевства,ORG,ORG,ORG,ORG,ORG
+ru-1017,Стив Бейкер,PER,PER,PER,PER,PER
+ru-1017,Тереза Мэй,PER,PER,PER,PER,PER
+ru-1017,УНН,ORG,ORG,ORG,ORG,ORG
